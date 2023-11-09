@@ -1,3 +1,3 @@
 ## Mining Media Data WS23 at b-it
 
-Info goes here
+Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany). Due to introductory events at the B-IT for newcomers, the first lecture will take place on 09.11.23 at 14:00 in Room 2.113. Exercises will take place on selected Thursdays from 12:00-13:00 in the same room (the first exercise session will occur two weeks after the first lecture). The course has 4-ETCS credits and is taught by Prof. Dr. Rafet Sifa. One week prior to each lecture, a list of recommended readings (from textbooks, reports, and research papers) related to the coursework will be announced.
